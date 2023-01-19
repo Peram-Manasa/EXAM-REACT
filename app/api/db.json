@@ -13,20 +13,16 @@
       "id": 0.8287039312772728
     },
     {
-      "name": "dinni",
-      "Roll Number": "100",
-      "English": 20,
-      "Telugu": 40,
-      "Hindi": 40,
-      "Science": 50,
-      "Social": 80,
-      "Activities": 80,
-      "TotalMarks": 99,
-      "id": 0.1228639271821872
-    },
-    {
+      "TotalMarks": 12,
+      "Activities": 12,
+      "Social": 12,
+      "Science": 12,
+      "Hindi": 12,
+      "Telugu": 12,
+      "English": 12,
+      "RollNumber": 12,
       "name": "manasa",
-      "id": 0.3787340242427273
+      "id": 0.9881078173049294
     }
   ]
 }

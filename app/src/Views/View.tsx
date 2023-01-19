@@ -135,9 +135,9 @@ const View =() =>
 
         <>
         <div className="Header_viewing">
-        <Link className= 'btn' to ={`/ViewPage/${item.id}`}><GrFormView size={20}/> </Link>
-           <Link className='btn' to={`/update/${item.id}`}><MdEdit size={20} /></Link>
-        <Link  className= 'btn' onClick = {()=> deleteoption(item.id)} to =''><MdDelete  size={20}/></Link>
+        <Link className= 'btn' to ={`/ViewPage/${item.id}`}><GrFormView size={20} color={"#B0B3B5"}/> </Link>
+           <Link className='btn' to={`/update/${item.id}`}><MdEdit size={20} color={"#B0B3B5"}/></Link>
+        <Link  className= 'btn' onClick = {()=> deleteoption(item.id)} to =''><MdDelete  size={20} color={"#B0B3B5"}/></Link>
         </div>
         </>
         )

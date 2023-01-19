@@ -46,17 +46,18 @@ row:0,
         label:"Science",
         isRequired:true,
     },
-    {
-        type:"TextFieldF",
-        name:"Social",
-        label:"Social",
-        isRequired:true,
-    },
+    
 ],
 },
 {row:0,
     className:"rowOne",
     controls :[
+        {
+            type:"TextFieldF",
+            name:"Social",
+            label:"Social",
+            isRequired:true,
+        },
     {
         type:"TextFieldF",
         name:"Activities",

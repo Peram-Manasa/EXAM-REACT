@@ -8,10 +8,10 @@ function App() {
   return (
     <>
     <BrowserRouter>
-    <div className="navigation">
+    {/* <div className="navigation">
       <Link className='btn' to="View">View</Link>
       <Link className='btn' to="create">Create</Link>
-    </div>
+    </div> */}
     <Routes>
      <Route path ="/" element ={<View/>}/>
      <Route path ="/View" element ={<View/>}/>
