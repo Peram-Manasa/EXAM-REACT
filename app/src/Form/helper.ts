@@ -1,0 +1,74 @@
+
+ export const STUDENT_DETAILS =[
+      {
+        row:0,
+        className:"rowOne",
+        controls :[
+    {
+        type:"TextFieldF",
+        name:"name",
+        label:"name",
+        isRequired:true,
+    },
+    {
+        type:"TextFieldF",
+        name:"RollNumber",
+        label:"RollNumber",
+        isRequired:true,
+    },
+    {
+        type:"TextFieldF",
+        name:"English",
+        label:"English",
+        isRequired:true,
+    },
+],
+},
+{
+row:0,
+        className:"rowOne",
+        controls :[
+    {
+        type:"TextFieldF",
+        name:"Telugu",
+        label:"Telugu",
+        isRequired:true,
+    },
+    {
+        type:"TextFieldF",
+        name:"Hindi",
+        label:"Hindi",
+        isRequired:true,
+    },
+    {
+        type:"TextFieldF",
+        name:"Science",
+        label:"Science",
+        isRequired:true,
+    },
+    {
+        type:"TextFieldF",
+        name:"Social",
+        label:"Social",
+        isRequired:true,
+    },
+],
+},
+{row:0,
+    className:"rowOne",
+    controls :[
+    {
+        type:"TextFieldF",
+        name:"Activities",
+        label:"Activities",
+        isRequired:true,
+    },
+    {
+        type:"TextFieldF",
+        name:"TotalMarks",
+        label:"TotalMarks",
+        isRequired:true,
+    },
+],
+},
+ ];

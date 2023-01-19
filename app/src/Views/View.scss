@@ -1,0 +1,28 @@
+.Header{
+    &_one
+    {
+       background-color: blue; 
+    }
+    &_viewing>*
+    {
+        margin: 5px;
+        
+    }
+    &_add>*
+    {
+        left: 1100px;
+        top:5px;
+        border-radius: 5px;
+        z-index: 1;
+        background-color: white;
+        color: blue;
+    }
+
+    &__table{
+        width: 80%;
+        margin: 0 auto;
+        background-color: #fff;
+        height: 500px;
+        margin-top: 10px;
+    }
+}

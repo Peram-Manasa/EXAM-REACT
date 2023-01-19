@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "name": "manasape",
+      "RollNumber": "2",
+      "English": 20,
+      "Telugu": 45,
+      "Hindi": 45,
+      "Science": 56,
+      "Social": 23,
+      "Activities": 43,
+      "TotalMarks": 90,
+      "id": 0.8287039312772728
+    },
+    {
+      "name": "dinni",
+      "Roll Number": "100",
+      "English": 20,
+      "Telugu": 40,
+      "Hindi": 40,
+      "Science": 50,
+      "Social": 80,
+      "Activities": 80,
+      "TotalMarks": 99,
+      "id": 0.1228639271821872
+    },
+    {
+      "name": "manasa",
+      "id": 0.3787340242427273
+    }
+  ]
+}

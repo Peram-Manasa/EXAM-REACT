@@ -1,0 +1,53 @@
+
+
+.form {
+  margin-top: 20px;
+  width: 500px;
+  border: 2px solid rgba(255, 255, 255, 0.209);
+  background-color: white;
+  padding: 2rem;
+  flex-direction: column;
+  margin-left: 380px;
+  display: flex;
+  border-radius: 10px;
+
+  &_one
+  {
+    right: 20px;
+  }
+  &_container>*
+  {
+    gap:  1rem;
+    display: flex;
+    flex-direction: row;
+  }
+  &_h1
+  {
+    color:blue;
+    display: flex;
+    p{
+      font-weight: lighter;
+      color: black;
+      font-size: 30px;
+      margin-top:22px;
+    }
+  }
+ 
+  .rowOne
+  {
+    flex-flow: wrap;
+    background: #F0F0F0 0% 0% no-repeat padding-box;
+    background-color: rgba(128, 128, 128, 0.147);
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(auto-fill,minmax(30%,1fr));
+  }
+
+  &_footer
+  {
+    padding-top: 2rem;
+  }
+}
+
+
+
