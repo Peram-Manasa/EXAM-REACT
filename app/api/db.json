@@ -1,28 +1,76 @@
 {
   "data": [
     {
-      "name": "manasape",
-      "RollNumber": "2",
-      "English": 20,
-      "Telugu": 45,
-      "Hindi": 45,
-      "Science": 56,
-      "Social": 23,
-      "Activities": 43,
-      "TotalMarks": 90,
-      "id": 0.8287039312772728
+      "TotalMarks": 80,
+      "Activities": 90,
+      "Social": 60,
+      "Science": 70,
+      "Hindi": 90,
+      "Telugu": 90,
+      "English": 80,
+      "RollNumber": 1,
+      "name": "Sathish",
+      "id": 0.4419323435706284
     },
     {
-      "TotalMarks": 12,
-      "Activities": 12,
-      "Social": 12,
-      "Science": 12,
-      "Hindi": 12,
-      "Telugu": 12,
-      "English": 12,
-      "RollNumber": 12,
-      "name": "manasa",
-      "id": 0.9881078173049294
+      "TotalMarks": 80,
+      "Activities": 80,
+      "Social": 60,
+      "Science": 50,
+      "Hindi": 40,
+      "Telugu": 40,
+      "English": 20,
+      "RollNumber": 3,
+      "name": "Bhanu",
+      "id": 0.5276540654113582
+    },
+    {
+      "TotalMarks": 56,
+      "Activities": 80,
+      "Social": 60,
+      "Science": 50,
+      "Hindi": 40,
+      "Telugu": 40,
+      "English": 80,
+      "RollNumber": 4,
+      "name": "Shrey",
+      "id": 0.3228264887571015
+    },
+    {
+      "TotalMarks": 56,
+      "Activities": 80,
+      "Social": 60,
+      "Science": 50,
+      "Hindi": 40,
+      "Telugu": 34,
+      "English": 80,
+      "RollNumber": 5,
+      "name": "Pranutha",
+      "id": 0.39447953001669256
+    },
+    {
+      "TotalMarks": 45,
+      "Activities": 78,
+      "Social": 67,
+      "Science": 87,
+      "Hindi": 99,
+      "Telugu": 87,
+      "English": 67,
+      "RollNumber": 8,
+      "name": "A Syamala",
+      "id": 0.4927601641485606
+    },
+    {
+      "TotalMarks": 100,
+      "Activities": 100,
+      "Social": 70,
+      "Science": 100,
+      "Hindi": 90,
+      "Telugu": 0,
+      "English": 100,
+      "RollNumber": 12345,
+      "name": "Srishti",
+      "id": 0.2688024730278862
     }
   ]
 }

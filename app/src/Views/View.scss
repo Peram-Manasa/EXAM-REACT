@@ -1,7 +1,8 @@
 .Header{
     &_one
     {
-       background-color: blue; 
+       background-color:#396CC5; 
+       height: 60px;
     }
     &_viewing>*
     {
@@ -24,5 +25,6 @@
         background-color: #fff;
         height: 500px;
         margin-top: 10px;
+      box-shadow: 2px 2px 2px 2px grey;
     }
 }
